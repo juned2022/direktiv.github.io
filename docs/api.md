@@ -3852,4 +3852,3 @@ Status: OK
 | Size | int32 (formatted integer)| `int32` | ✓ | | size |  |
 | TrafficPercent | int64 (formatted integer)| `int64` | ✓ | | trafficPercent |  |
 
-
